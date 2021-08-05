@@ -13,7 +13,7 @@ If you use our work in your research, please cite as:
 }
 ```
 
-Have a look at the applications for full examples:
+The algorithm is implemented in [rippa.py](rippa.py). Have a look at the applications for full examples:
 * [Robust L1 Least Squares](test_rippa_robust_l1ls.py) 
 * [Graph Support Vector Machines](test_rippa_graphsvm.py) 
 * [Matrix Completion](test_rippa_matrixcompletion.py) 
