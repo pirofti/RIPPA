@@ -8,7 +8,7 @@ If you use our work in your research, please cite as:
 ```
 @article{PI21,
   title = {Computational complexity of Inexact Proximal Point Algorithms for Convex Optimization},
-  author = {Pătrașcu, A. and Irofti, },
+  author = {Pătrașcu, A. and Irofti, P.},
   year={2021},
 }
 ```
